@@ -23,8 +23,8 @@ dependencies {
     runtimeOnly 'com.h2database:h2'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     implementation 'org.projectlombok:lombok:1.18.30'
-    runtimeOnly 'com.h2database:h2' // thử với H2 trước
     annotationProcessor 'org.projectlombok:lombok'
+    implementation 'mysql:mysql-connector-java:8.0.33'
 }
 
 tasks.named('test') {
