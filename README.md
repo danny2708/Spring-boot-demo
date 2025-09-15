@@ -4,7 +4,8 @@
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3fe9dd54-ddc3-4c0b-b9ee-8318a1b02d17" />
 
 màn add
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1cc5c794-03bb-4e06-88e5-87f339987d8e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9f37f513-de8f-4d38-aac7-0ec8a301be9a" />
+
 
 sau khi add
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d460295a-4f8e-4ff1-913c-f8769141a955" />
